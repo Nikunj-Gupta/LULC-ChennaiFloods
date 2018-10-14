@@ -1,0 +1,14 @@
+Accuracy : 0.917844663854%
+Precision : 0.917844663854%
+Recall : 0.917844663854%
+Kappa Score : 0.837261427918%
+Confusion matrix
+[[86922    16  2749   377]
+ [    0  6748    16   730]
+ [ 4721     5 28015  1633]
+ [    1   869   216  4928]]
+Water pixels: 2488687
+Urban pixels: 1869898
+Veg pixels: 2228727
+Open pixels: 1403594
+

@@ -1,0 +1,26 @@
+The training data includes 4 classes: [  10.   50.  100.  150.]
+Number of training and test points:
+Training data size: (131699, 6)
+Training labels vector length: (131699,)
+Testing data size: (137946, 6)
+Testing labels vector length: (137946,)
+Accuracy : 0.912204775782%
+Precision : 0.912204775782%
+Recall : 0.912204775782%
+Kappa Score : 0.827934326441%
+Confusion matrix
+[[86194    21  3620   229]
+ [   10  6690    23   771]
+ [ 3849    20 28106  2399]
+ [   33   903   233  4845]]
+Band 0 importance: 0.108451731987
+Band 1 importance: 0.146252843402
+Band 2 importance: 0.127333094343
+Band 3 importance: 0.172086444633
+Band 4 importance: 0.191412233899
+Band 5 importance: 0.254463651735
+Water pixels: 2496053
+Urban pixels: 1805209
+Veg pixels: 2278672
+Open pixels: 1410972
+
